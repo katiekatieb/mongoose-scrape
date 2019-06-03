@@ -6,7 +6,7 @@
 
 ## Technology
 * Node, Mongo, Mongoose
-* Live demo: https://immense-garden-35813.herokuapp.com/
+* Live demo: https://shielded-wave-26101.herokuapp.com/
 
 ## License 
 * This project is licensed under The MIT License (MIT).
